@@ -1,0 +1,7 @@
+https://levelup.gitconnected.com/calling-blockchain-smart-contracts-from-java-58916cdb030f
+
+https://github.com/TezosRio/TezosJ_plainJava
+
+   88  java -cp tezosj-sdk-plain-java-1.4.1.jar Main 
+
+javac ./src/main/java/callSmartContract/Main.java
